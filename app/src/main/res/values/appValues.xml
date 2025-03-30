@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primeira tela -->
+    <string name="Title">Gostaria de calcular seu IMC?</string>
+    <string name="Question">Se sim, clique no botão abaixo</string>
+    <string name="Next">Próximo</string>
+
+    <!-- Segunda tela -->
+    <string name="Title2">Preencha as informações</string>
+    <string name="ResetData">Redefinir</string>
+    <string name="Next2">Calcular</string>
+    <string name="Voltar">Voltar</string>
+
+    <!-- Paleta de cores -->
+    <color name="Verde">#006341</color>
+    <color name="Verde_claro">#00A859</color>
+    <color name="Cinza_escuro">#4D4D4D</color>
+
+    <!-- General Values -->
+    <string name="weight">peso</string>
+    <string name="height">altura</string>
+    <string name="outcome">resultado</string>
+
+    <!-- Underweight -->
+    <string name="Underweight">Você está abaixo do peso</string>
+    <string name="Optimal">Você está no peso normal</string>
+    <string name="Overweight">Você está acima do peso</string>
+    <string name="Obesity1">Você está no grau de obesidade I</string>
+    <string name="Obesity2">Você está no grau de obesidade II</string>
+    <string name="Obesity3">Você está no grau de obesidade III</string>
+    <string name="Resultado1">Aqui está o seu resultado</string>
+    <string name="msgmotivacional_underweight">Estar abaixo do peso não te define, mas pode ser transformado. Seu corpo merece nutrição, força e cuidado. Cada refeição é uma oportunidade de crescer, fortalecer e florescer!</string>
+    <string name="msgmotivacional_optimal">Manter o equilíbrio é um grande passo para a saúde! Continue nutrindo seu corpo com alimentos de qualidade, movimentando-se com prazer e cuidando do seu bem-estar. Pequenos hábitos constroem uma vida forte e cheia de energia!</string>
+    <string name="msgmotivacional_overweight">Cada escolha saudável faz a diferença! Pequenas mudanças na alimentação e na rotina de exercícios podem trazer mais disposição e bem-estar. Cuide do seu corpo com carinho e siga avançando no seu ritmo!</string>
+    <string name="msgmotivacional_obesity1">Criar hábitos saudáveis começa com um passo de cada vez! Movimente-se um pouco mais, faça escolhas alimentares mais equilibradas e respeite seu corpo. Pequenas mudanças diárias levam a grandes transformações!</string>
+    <string name="msgmotivacional_obesity2">Criar novos hábitos é um desafio, mas também uma grande oportunidade! Pequenos ajustes na rotina, como incluir mais alimentos naturais e se movimentar um pouco mais a cada dia, fazem toda a diferença. Seu corpo merece esse cuidado!</string>
+    <string name="msgmotivacional_obesity3">Buscar saúde é um caminho que vale a pena! Consultar profissionais, adotar uma alimentação equilibrada e praticar atividades adequadas ao seu corpo são passos essenciais. Pequenas mudanças feitas com acompanhamento e consistência podem trazer grandes transformações para sua qualidade de vida!</string>
+</resources>
